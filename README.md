@@ -29,10 +29,10 @@ Frontend:Streamlit
 Screenshots
 Bot Mode Selection
 Select from 8 different personality modes to customize your chatbot experience.
-
+[!option.png](https://github.com/mahaveer116/chatbot-/blob/a152c6e55ca6ca8334c70125e334cd782faa6a0c/options.png)
 Chat Interface
 Clean and intuitive chat interface for seamless conversations with the AI assistant.
-
+[!chatinterface.png](https://github.com/mahaveer116/chatbot-/blob/a152c6e55ca6ca8334c70125e334cd782faa6a0c/chatinterface%20.png)
 
 How It Works
 
