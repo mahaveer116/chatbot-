@@ -1,7 +1,3 @@
-Here’s a cleaner, professional README without emojis, but still polished and appealing:
-
----
-
 # AI Chatbot – Multi-Personality Conversational Assistant
 
 An intelligent conversational AI chatbot powered by DeepSeek-R1 from Hugging Face. This application enables dynamic, context-aware conversations with multiple personality modes tailored to different use cases.
@@ -148,11 +144,3 @@ This project is licensed under the MIT License. See the LICENSE file for details
 * Hugging Face Transformers
 * DeepSeek-R1 model
 * Streamlit
-
----
-
-If you want, I can next:
-
-* Add GitHub badges (clean, no emojis)
-* Make a short one-line “pitch” for your resume
-* Optimize this README for recruiters or portfolio visibility
